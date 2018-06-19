@@ -1,0 +1,7 @@
+name: docker-service
+title: Docker Swarm Service
+maintainer: The Mobile Life
+copyright: The Mobile Life Group Pte Ltd
+license: Apache-2.0
+summary: Verify that a Swarm service has been properly replicated
+version: 1.0.0
